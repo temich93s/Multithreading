@@ -30,4 +30,21 @@
 10_GCD_DispatchWorkItem_notify+BONUS
 <img width="1552" alt="Снимок экрана 2022-12-15 в 20 56 07" src="https://user-images.githubusercontent.com/88254863/207841782-6d3ad265-91f9-488f-8c05-fa83bce579df.png">
 
+11_GCD_Semaphore
+<img width="1440" alt="Снимок экрана 2022-12-18 в 15 46 27" src="https://user-images.githubusercontent.com/88254863/208283637-1098e201-ea10-404e-8c70-746edd0fb868.png">
+
+12_GCD_Dispatch_Group+Bonus
+<img width="1440" alt="Снимок экрана 2022-12-18 в 15 46 42" src="https://user-images.githubusercontent.com/88254863/208283641-e18bf1a4-d7cf-47b4-bc9b-1de6e8bf94c0.png">
+
+13_GCD_Dispatch_Barrier
+<img width="1440" alt="Снимок экрана 2022-12-18 в 15 46 57" src="https://user-images.githubusercontent.com/88254863/208283643-bcc9acdf-ef8f-4fbc-bb97-aa43730e52ab.png">
+
+14_GCD_Dispatch_Source
+<img width="1440" alt="Снимок экрана 2022-12-18 в 15 47 09" src="https://user-images.githubusercontent.com/88254863/208283645-021a012b-5785-458b-89ac-67cd66e5fd8a.png">
+
+15_Operation_OperationQueue_OperationBlock
+<img width="1440" alt="Снимок экрана 2022-12-18 в 15 47 20" src="https://user-images.githubusercontent.com/88254863/208283648-f39ec7ce-c95b-4bf3-a104-5e7b3906f037.png">
+
+16_BlockOperation_WaitUntilFinished_OperationCancel
+<img width="1440" alt="Снимок экрана 2022-12-18 в 15 47 36" src="https://user-images.githubusercontent.com/88254863/208283649-07b9a3d3-a5c1-4cbf-8f2f-1bcf15c18db2.png">
 
